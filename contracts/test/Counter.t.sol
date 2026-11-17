@@ -37,3 +37,4 @@ contract CounterTest is Test {
         counter.setNumber(7);
     }
 }
+// test workflow trigger
